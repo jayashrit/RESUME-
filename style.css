@@ -1,0 +1,38 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th{
+    color: rgb(238, 247, 162);
+    background-color: rgb(20, 20, 120);
+    padding: 15px;
+}
+td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  h1 {
+    background-color:  rgb(20, 20, 120);
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(238, 247, 162);
+  }
+  img{
+    border-radius: 50%;
+      width: 30%;
+      height: 40%;
+      border: 15px solid  rgb(20, 20, 120);
+      
+  }
+  h3{
+     color: rgb(20, 20, 120);
+  }
+  h2{
+    color: rgb(20, 20, 120);
+ }
+ body {
+    font-family:serif;
+  }
